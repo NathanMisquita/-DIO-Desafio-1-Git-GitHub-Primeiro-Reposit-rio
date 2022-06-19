@@ -1,0 +1,16 @@
+Link oara download Git: https://git-scm.com/downloads
+
+Git Comandos: git config- usado para definir informções de configuração específicos do usuário.
+              git init- usado para criar um novo repositório GIT.
+              git add-usado para adicionar arquivos ao índice.
+              git clone-usado para fins de verificação de repositório ou para clonar repositorios do GutHub em sua máquina pessoa
+              git commit-usado para confirmar as alterações na cabeça
+              git status-exibe a lista de arquivos alterados juntamente com os arquivos que ainda não foram adicionados ou confirmados
+              git push-envia as alterações feitas para o ramo mestre do repositório remoto associado ao diretório de trabalho
+              git branch-pode ser usado para listar, criar ou excluir ramos. Para listar todos os ramos presentes no repositório
+              git pull-mescla todas as alterações presentes no repositório remoto para o diretório de trabalho local.
+              git merge-sado para mesclar uma ramificação no ramo ativo.
+              git diff-usado para listar os conflitos.
+
+O que é um commit no Git: Os commits são as unidades estruturais de um cronograma de projeto Git. Podem ser considerados instantâneos ou marcos ao longo do cronograma de um projeto Git. São criados com o comando git commit para capturar o estado de um projeto naquele momento.
+
